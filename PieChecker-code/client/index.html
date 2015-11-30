@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>PieChecker</title>
+    <meta name="description" content="Check up on your oven, online!">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/styles/style.css">
+  </head>
+  <body>
+
+    <nav>
+      <a id="go-back" class="btn" href="/">Go back</a>
+      <a id="sign-out" class="btn" href="#sign-out">Sign out</a>
+      <a id="sign-in" class="btn" href="#sign-in">Sign in</a>
+      <a id="install" href="#install-your-pi" class="btn">Install Your Pi</a>
+      <a id="gallery" href="#gallery" class="btn">Gallery</a>
+    </nav>
+
+    <a href="/" id="logo"></a>
+
+    <div id="cover"></div>
+
+    <div id="player"></div>
+
+    <header>
+      <div id="set-up-slide">
+        <h2>Remote, real-time oven monitoring</h2>
+        <iframe width="500" height="281" src="//www.youtube.com/watch?v=Nq1qxKDYfJo?rel=0&autohide=2&modestbranding=1&controls=1" frameborder="0" allowfullscreen></iframe>
+        <a href="#the-team">About us &#9656;</a>
+      </div>
+      <div id="the-team-slide">
+        <a href="#set-up">&#9666; Back</a>
+      </div>
+    </header>
+
+    <div id="team">
+      <h3>The Team</h3>
+      Team FruitCakes is a group of seven students from Gothenburg University.
+    </div>
+
+    <div id="installation">
+
+      <div style="border-color: #6441a5">
+        <a style="color: #6441a5" href="http://www.twitch.tv/signup" target="_blank">
+          <img src="/images/twitch.png">
+          Create a TwitchTV account
+        </a>, used by PieChecker to sign in and stream your oven
+      </div>
+
+      <div style="border-color: #53a541">
+        <a style="color: #53a541" href="#sd">
+          <img src="/images/cogs.png">
+          Generate configuration files
+        </a> for your PieChecker
+      </div>
+
+
+      <div style="border-color: #4590b3">
+        <img src="/images/sd.png">
+        Put the files on the PieChecker SD card</div>
+    </div>
+
+    <div id="container"></div>
+
+    <script src="/scripts/libs/jquery.min.js"></script>
+    <script src="/scripts/libs/twitch.min.js"></script>
+    <script src="/scripts/libs/moment.js"></script>
+    <script src="/scripts/libs/underscore-min.js"></script>
+    <script src="/scripts/libs/highcharts.js"></script>
+    <script src="/scripts/libs/exporting.js"></script>
+    <script src="/scripts/socket.io.js"></script>
+    <script src="/scripts/app.js"></script>
+  </body>
+<html>

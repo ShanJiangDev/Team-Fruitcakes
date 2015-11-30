@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Mick\Documents\PieChecker\Android\.metadata\.plugins\org.eclipse.jdt.core
+679054497.index
+611044998.index
+3287943255.index

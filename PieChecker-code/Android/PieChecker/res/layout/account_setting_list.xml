@@ -1,0 +1,12 @@
+<!-- Describes the text style for the account setting fragment -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    
+    android:gravity="center_vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:height="48dp"
+    android:textColor="@android:color/black"
+   />

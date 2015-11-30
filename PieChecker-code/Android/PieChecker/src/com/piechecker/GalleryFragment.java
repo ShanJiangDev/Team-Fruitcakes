@@ -1,0 +1,37 @@
+/*
+ * The fragment creates the view and uses an  image adapter to populate
+ * the view 
+ */
+
+package com.piechecker;
+
+import android.app.Fragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.GridView;
+
+public class GalleryFragment extends Fragment {
+	View v;
+
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		
+	}
+
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		 v =inflater.inflate(R.layout.fragment_gallery, container, false);	
+		GridView gridview = (GridView) v.findViewById(R.id.gridview);
+	    gridview.setAdapter(new ImageAdapter(v.getContext()));
+	   
+		return v;
+	}
+	
+	
+}

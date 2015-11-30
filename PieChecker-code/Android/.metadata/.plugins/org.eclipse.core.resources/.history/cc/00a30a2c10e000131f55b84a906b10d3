@@ -1,0 +1,29 @@
+package com.piechecker;
+
+import android.annotation.SuppressLint;
+import android.app.Fragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.webkit.WebSettings;
+import android.webkit.WebView;
+
+@SuppressLint("SetJavaScriptEnabled")
+public class StreamInFragment extends Fragment {
+
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		View v = inflater.inflate(R.layout.stream_in_fragment, container, false);
+		WebView webview =(WebView)v.findViewById(R.id.webview);
+		WebSettings settings = webview.getSettings();
+		settings.setJavaScriptEnabled(true);
+		webview.loadUrl("http://walterebert.com/playground/video/hls/sintel-trailer.m3u8");
+		//webview.loadUrl("http://www.twitch.tv/beyondthesummit/hls");
+		return v;
+	}
+	
+
+}

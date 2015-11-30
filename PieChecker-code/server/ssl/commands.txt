@@ -1,0 +1,22 @@
+openssl pkcs12 -export -in piechecker_com.crt -inkey key.pem -certfile ca-cert.crt -out piechecker.pfx
+
+openssl req -newkey rsa:2048 -new -nodes -keyout key.pem -out csr.pem
+
+
+Country Name (2 letter code) [XX]:SE
+State or Province Name (full name) []:Västra Götaland County
+Locality Name (eg, city) [Default City]:Gothenburg
+Organization Name (eg, company) [Default Company Ltd]:Luuk van Egeraat
+Organizational Unit Name (eg, section) []:IT
+Common Name (eg, your name or your server's hostname) []:piechecker.com
+Email Address []:l.vanegeraat@gmail.com
+
+Please enter the following 'extra' attributes
+to be sent with your certificate request
+A challenge password []:qEw347QBkO
+An optional company name []:
+
+
+COMODO LOGIN:
+luukve
+lSu2lNnRqU

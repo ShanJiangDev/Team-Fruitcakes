@@ -1,0 +1,1 @@
+raspivid -vf -t 0 -fps 25 -b 200000 -n -o - | ffmpeg -i - -vcodec copy -an -r 25 -f flv "rtmp://live-ams.twitch.tv/app/live_36841685_4WEcwmNzkVnRrF6fcZ41PKzYzFeKh0"

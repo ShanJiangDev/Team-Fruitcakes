@@ -1,0 +1,121 @@
+/*
+ * Early version of a login. Uses Http Post to 
+ * enter the email entered on the first PieCheckerwebsite,
+ *  causing a registration email to be sent. Made obsolete 
+ *  with the move to Twitch
+ */
+package com.piechecker;
+
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.http.NameValuePair;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpPost;
+
+
+
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.message.BasicNameValuePair;
+
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.os.AsyncTask;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+
+public class LoginFragment extends Fragment {
+
+	private EditText email;
+	private EditText password;
+	private Button loginButton;
+	private HttpClient client;
+	private HttpPost post;
+	private List<NameValuePair> pairs;
+	
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		
+		super.onCreate(savedInstanceState);
+		setRetainInstance(true);
+	}
+
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		
+		View v = inflater.inflate(R.layout.fragment_login, container, false);
+		email = (EditText) v.findViewById(R.id.etUsername);
+		password = (EditText) v.findViewById(R.id.etPassword);
+		loginButton = (Button) v.findViewById(R.id.bLogin);
+
+		loginButton.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+			//	if(email.length()== 0){ Toast.makeText(getBaseContext(), "Email address required", Toast.LENGTH_SHORT).show(); return;}
+				new UserLogin().execute();
+
+			}
+		});
+
+		return v;
+	}
+	/*
+	 * extends AsyncTask to allow the process to run in the background to
+	 * prevent the app from becoming unresponsive 
+	 */
+	private class UserLogin extends AsyncTask<Void, Void, Void> {
+
+		@Override
+		protected Void doInBackground(Void... params) {
+			try {
+				client = new DefaultHttpClient();
+				post = new HttpPost("https://Piechecker.com/v1/user");
+
+				pairs = new ArrayList<NameValuePair>();
+				pairs.add(new BasicNameValuePair("email", email.getText()
+						.toString()));
+				post.setEntity(new UrlEncodedFormEntity(pairs));
+				client.execute(post);
+
+			} catch (UnsupportedEncodingException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+
+			} catch (ClientProtocolException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+			return null;
+
+		}
+/*
+ * when post is successful change fragment to HomeFragment
+ */
+		@Override
+		protected void onPostExecute(Void result) {
+			// TODO Auto-generated method stub
+			super.onPostExecute(result);
+			FragmentManager fragmentManager = getFragmentManager();
+			fragmentManager.beginTransaction()
+					.replace(R.id.content_frame, new HomeFragment()).commit();
+		}
+
+	}
+
+	
+
+}

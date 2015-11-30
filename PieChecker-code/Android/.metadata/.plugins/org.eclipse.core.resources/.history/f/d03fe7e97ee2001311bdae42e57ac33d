@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <VideoView
+        android:id="@+id/videoView1"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android1:layout_gravity="center" />
+
+    <LinearLayout
+        android1:layout_width="124dp"
+        android1:layout_height="wrap_content"
+        android1:orientation="horizontal" >
+
+        <TextView
+            android1:id="@+id/time_remaining_text"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginLeft="40dp"
+            android1:paddingTop="15dp"
+            android1:text="@string/time_remaining_text"
+            android1:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android1:id="@+id/tvTimeRemaining"
+            android1:layout_width="0dip"
+            android1:layout_height="wrap_content"
+            android1:layout_weight="1.87"
+            android1:paddingLeft="20dp"
+            android1:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:orientation="horizontal" >
+
+        <TextView
+            android1:id="@+id/temp_text"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_marginLeft="40dp"
+            android1:text="@string/temperature_text"
+            android1:textAppearance="?android:attr/textAppearanceMedium" />
+        
+         <TextView
+        android1:id="@+id/tvCurrentTempNumber"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+         android1:layout_weight="1.87"
+            android1:paddingLeft="20dp"
+        android1:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+   
+
+    <Button
+        android1:id="@+id/button1"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_gravity="center"
+        android1:layout_marginTop="20dp"
+        android1:text="@string/change_device_button" />
+
+</LinearLayout>

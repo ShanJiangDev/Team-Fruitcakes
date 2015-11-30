@@ -1,0 +1,565 @@
+TPieCheckerA
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.pch PieCheckerA/PieCheckerA-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005348693E0000000000000198
+t1397254462
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FB70E00000000000003B4
+t1394587406
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531149D9000000000000019E
+t1393641945
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534868AF0000000000446820
+t1397254319
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FB71F000000000088D8C0
+t1394587423
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531FB7260000000001F1DE10
+t1394587430
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FB75C0000000000000ADC
+t1394587484
+s2780
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m
+c00000000538467200000000000001001
+t1401186080
+s4097
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m
+c000000005384C80100000000000011E9
+t1401210881
+s4585
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m
+c000000005384A13D0000000000000899
+t1401200957
+s2201
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m
+c000000005384672000000000000007F9
+t1401186080
+s2041
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/PieCheckerA-Prefix.pch
+c000000005383C5E00000000000000158
+t1401144800
+s344
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m
+c000000005383C5E100000000000001F1
+t1401144801
+s497
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m
+c000000005383C5E00000000000000155
+t1401144800
+s341
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m
+c00000000538427F20000000000000F8B
+t1401169906
+s3979
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m
+c000000005385024C0000000000000876
+t1401225804
+s2166
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m
+c00000000538510CE0000000000000D1B
+t1401229518
+s3355
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA
+t2
+s0
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o
+t1401229933
+s62400
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o
+t1401229932
+s57772
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o
+t1401229932
+s69136
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o
+t1401229933
+s56720
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/PieCheckerA.LinkFileList
+c00000000538512650000000000000515
+t1401229925
+s1301
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o
+t1401229932
+s87156
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+t1401229933
+s47600
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+t1401229933
+s63824
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o
+t1401229933
+s38992
+
+N/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o
+t1401229933
+s3560
+
+N/var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.pch
+t1401229928
+s122080
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m
+r0
+
+CBuild AST from /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies33a793e44935b941^ace3d4e54935b941^---0#1#1#--18"Check dependencies36"02DFAE07-E061-44E2-9AC8-2E57BA829C35-
+
+CCompileAssetCatalog /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/Images.xcassets
+r0
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922733.195107
+e422922733.444492
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m200"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o PieCheckerA/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerec1532ed4935b941^5bce71ed4935b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m0000000000000000^3715"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o PieCheckerA/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o36"D748294C-6898-4B8A-ACD6-4C476806CBA2-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922732.626627
+e422922732.917741
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m206"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc83a0ec4935b941^78f1eaec4935b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m0000000000000000^3745"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o36"B4EFE4C1-F555-43B0-A19A-71AFF71AA770-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922728.869292
+e422922732.626261
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m188"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o LoginScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2cb9dee84935b941^d652a0ec4935b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m0000000000000000^3691"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o LoginScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/LoginScreen.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o36"FE6A3993-28B2-4F16-A13E-8BBCBA21206F-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922733.056872
+e422922733.199319
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.h
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/DetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m206"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8faa0eed4935b941^460833ed4935b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m0000000000000000^3745"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/MasterViewController.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o36"42AD9E72-D56F-4DD6-A566-16F7EEE55311-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922732.626606
+e422922732.939090
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m220"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o ProfileController/ProfileController1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc285a0ec4935b941^9868f0ec4935b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m0000000000000000^3769"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o ProfileController/ProfileController1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/ProfileController/ProfileController1.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o36"B3B9F1BE-6114-41C8-9A32-4E19862250C9-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922732.918040
+e422922733.194698
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m184"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o Stopwatch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd11eebec4935b941^0ed831ed4935b941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m0000000000000000^3679"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o Stopwatch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o36"532D390F-6F57-473D-B0E3-19E0252A8BD1-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922733.314904
+e422922733.677750
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.h
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/Stopwatch.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m196"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o VideoController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd0b450ed4935b941^5a81aded4935b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m0000000000000000^3715"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o VideoController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/VideoController.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o36"AEE28E41-9582-437F-AB80-3DC2C49F525B-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922732.939781
+e422922733.056592
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m206"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o PieCheckerA/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerddd0f0ec4935b941^467d0eed4935b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m0000000000000000^3733"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o PieCheckerA/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/ViewController.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o36"C5BB8D8F-B791-43E9-8E2F-CC20ECC4A4FD-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922733.199617
+e422922733.314596
+r1
+xCompileC
+xbuild/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m186"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o PieCheckerA/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere73833ed4935b941^3f8c50ed4935b941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m0000000000000000^3673"CompileC build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o PieCheckerA/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -include /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch -MMD -MT dependencies -MF /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.dia -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/main.m -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o36"0898C8FA-E4CE-47E9-93CC-0DB428A8C2F4-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CCompileStoryboard /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/en.lproj/InfoPlist.strings PieCheckerA/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Users/PhilipMalm/Downloads/PhotoGalleryCode/MacBook\ Air.jpg build/Debug-iphonesimulator/PieCheckerA.app/MacBook\ Air.jpg
+r0
+
+CCpResource /Users/PhilipMalm/Downloads/PhotoGalleryCode/iPad.jpg build/Debug-iphonesimulator/PieCheckerA.app/iPad.jpg
+r0
+
+CCpResource /Users/PhilipMalm/Downloads/PhotoGalleryCode/iPhone.jpg build/Debug-iphonesimulator/PieCheckerA.app/iPhone.jpg
+r0
+
+CCpResource /Users/PhilipMalm/Downloads/PhotoGalleryCode/pies.jpg build/Debug-iphonesimulator/PieCheckerA.app/pies.jpg
+r0
+
+CCpResource HappyPie.jpg build/Debug-iphonesimulator/PieCheckerA.app/HappyPie.jpg
+r0
+
+CCpResource WomanWithPie.jpg build/Debug-iphonesimulator/PieCheckerA.app/WomanWithPie.jpg
+r0
+
+CCpResource account.png build/Debug-iphonesimulator/PieCheckerA.app/account.png
+r0
+
+CCpResource account@2x.png build/Debug-iphonesimulator/PieCheckerA.app/account@2x.png
+r0
+
+CCpResource arrow.png build/Debug-iphonesimulator/PieCheckerA.app/arrow.png
+r0
+
+CCpResource arrow@2x.png build/Debug-iphonesimulator/PieCheckerA.app/arrow@2x.png
+r0
+
+CCpResource bridge.jpg build/Debug-iphonesimulator/PieCheckerA.app/bridge.jpg
+r0
+
+CCpResource check.png build/Debug-iphonesimulator/PieCheckerA.app/check.png
+r0
+
+CCpResource check@2x.png build/Debug-iphonesimulator/PieCheckerA.app/check@2x.png
+r0
+
+CCpResource comment.png build/Debug-iphonesimulator/PieCheckerA.app/comment.png
+r0
+
+CCpResource comment@2x.png build/Debug-iphonesimulator/PieCheckerA.app/comment@2x.png
+r0
+
+CCpResource compose.png build/Debug-iphonesimulator/PieCheckerA.app/compose.png
+r0
+
+CCpResource compose@2x.png build/Debug-iphonesimulator/PieCheckerA.app/compose@2x.png
+r0
+
+CCpResource envelope.png build/Debug-iphonesimulator/PieCheckerA.app/envelope.png
+r0
+
+CCpResource envelope@2x.png build/Debug-iphonesimulator/PieCheckerA.app/envelope@2x.png
+r0
+
+CCpResource heart.png build/Debug-iphonesimulator/PieCheckerA.app/heart.png
+r0
+
+CCpResource heart@2x.png build/Debug-iphonesimulator/PieCheckerA.app/heart@2x.png
+r0
+
+CCpResource lock.png build/Debug-iphonesimulator/PieCheckerA.app/lock.png
+r0
+
+CCpResource lock@2x.png build/Debug-iphonesimulator/PieCheckerA.app/lock@2x.png
+r0
+
+CCpResource mail.png build/Debug-iphonesimulator/PieCheckerA.app/mail.png
+r0
+
+CCpResource mail@2x.png build/Debug-iphonesimulator/PieCheckerA.app/mail@2x.png
+r0
+
+CCpResource menu.png build/Debug-iphonesimulator/PieCheckerA.app/menu.png
+r0
+
+CCpResource menu@2x.png build/Debug-iphonesimulator/PieCheckerA.app/menu@2x.png
+r0
+
+CCpResource pie.jpg build/Debug-iphonesimulator/PieCheckerA.app/pie.jpg
+r0
+
+CCpResource piechecker.gif build/Debug-iphonesimulator/PieCheckerA.app/piechecker.gif
+r0
+
+CCpResource search.png build/Debug-iphonesimulator/PieCheckerA.app/search.png
+r0
+
+CCpResource search@2x.png build/Debug-iphonesimulator/PieCheckerA.app/search@2x.png
+r0
+
+CCpResource settings.png build/Debug-iphonesimulator/PieCheckerA.app/settings.png
+r0
+
+CCpResource settings@2x.png build/Debug-iphonesimulator/PieCheckerA.app/settings@2x.png
+r0
+
+CGenerateDSYMFile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app.dSYM /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA
+r0
+
+CLd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA normal i386
+s422922733.679031
+e422922735.759445
+r0
+xLd
+x/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA
+xnormal
+xi386
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/PieCheckerA.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/LoginScreen.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ProfileController1.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/DetailViewController.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/ViewController.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/MasterViewController.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/AppDelegate.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/main.o
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+oduplicate symbol _OBJC_IVAR_$_Stopwatch.start in:
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+oduplicate symbol _OBJC_IVAR_$_Stopwatch.time in:
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+oduplicate symbol _OBJC_IVAR_$_Stopwatch._display in:
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+oduplicate symbol _OBJC_CLASS_$_Stopwatch in:
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+oduplicate symbol _OBJC_METACLASS_$_Stopwatch in:
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o
+o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.o
+old: 5 duplicate symbols for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA70"Ld build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA normal i38653e7aded4935b941^1e6bc2ef4935b941^-1842"duplicate symbol _OBJC_IVAR_$_Stopwatch.start in:    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.oduplicate symbol _OBJC_IVAR_$_Stopwatch.time in:    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.oduplicate symbol _OBJC_IVAR_$_Stopwatch._display in:    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.oduplicate symbol _OBJC_CLASS_$_Stopwatch in:    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.oduplicate symbol _OBJC_METACLASS_$_Stopwatch in:    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/Stopwatch.o    /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/VideoController.old: 5 duplicate symbols for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@41"5 duplicate symbols for architecture i386-422922735#1716#46#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-422922735#1762#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1395"Ld build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA normal i386    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator -filelist /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/PieCheckerA.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/Objects-normal/i386/PieCheckerA_dependency_info.dat -o /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/PieCheckerA36"ED2FB81B-3617-48F8-A230-D7AAF3AC5B23-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CProcessInfoPlistFile /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app/Info.plist /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/PieCheckerA-Info.plist
+r0
+
+CProcessPCH /Users/PhilipMalm/Library/Developer/Xcode/DerivedData/PieCheckerA-aivktbtnsceptifgzqkmohnguemd/Index/PrecompiledHeaders/PieCheckerA-Prefix-fhxiagozgpoiskcojicftgjmkhyz_ast/PieCheckerA-Prefix.pch.pch PieCheckerA/PieCheckerA-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.pch PieCheckerA/PieCheckerA-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422922725.978943
+e422922728.867965
+r1
+xProcessPCH
+x/var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.pch
+xPieCheckerA/PieCheckerA-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/PieCheckerA-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile PieCheckerA/PieCheckerA-Prefix.pch306"ProcessPCH /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.pch PieCheckerA/PieCheckerA-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7311fbe54935b941^b934dee84935b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/PieCheckerA-Prefix.pch0000000000000000^3788"ProcessPCH /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.pch PieCheckerA/PieCheckerA-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PhilipMalm/Desktop/Xcode/PieCheckerA    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PhilipMalm/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-generated-files.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-own-target-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-all-target-headers.hmap -iquote /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/PieCheckerA-project-headers.hmap -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources/i386 -I/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/PieCheckerA.build/Debug-iphonesimulator/PieCheckerA.build/DerivedSources -F/Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.d -c /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/PieCheckerA/PieCheckerA-Prefix.pch -o /var/folders/mw/j5vj0b5908d_6829t8tb_3hm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/PieCheckerA-Prefix-ckpriskjezmjwobdgwxecphcorug/PieCheckerA-Prefix.pch.pch36"38D2B6CE-780A-4418-8424-EEC6A5D2D43B-
+b2525EA80-C136-4CBC-BB55-A34BBEA8E396
+
+CTouch /Users/PhilipMalm/Desktop/Xcode/PieCheckerA/build/Debug-iphonesimulator/PieCheckerA.app
+r0
+
